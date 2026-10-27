@@ -1,4 +1,3 @@
-[README_perfil_GitHub.md](https://github.com/user-attachments/files/33991769/README_perfil_GitHub.md)
 # 👋 Hola, soy Edgar Marmolejo
 
 Estudiante de Análisis de Datos (TripleTen, 53% avanzado — titulación estimada noviembre 2026), en busca de mi primera oportunidad como **Analista de Datos Junior** en modalidad remota.
